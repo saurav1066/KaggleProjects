@@ -11,3 +11,5 @@ added new time series project
 will start course for timeseriez
 
 finished lags and leads
+
+added crime classification
